@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="ChatGPT Image Jun 24, 2026, 08_09_40 PM.png" alt="TokoJaya Banner">
+</p>
 
 # TokoJaya
 
